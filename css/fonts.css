@@ -1,0 +1,19 @@
+@font-face {
+    font-family: iranyekan;
+    src: url('../assets/fonts/eot/iranyekanwebregularfanum.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../assets/fonts/woff/iranyekanwebregularfanum.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../assets/fonts/ttf/iranyekanwebregularfanum.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: iranyekan;
+    src: url('../assets/fonts/eot/iranyekanwebregularfanum.eot?#iefix') format('embedded-opentype'), /* IE6-8 */
+    url('../assets/fonts/woff/iranyekanwebregularfanum.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../assets/fonts/ttf/iranyekanwebregularfanum.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+body, button {
+    font-family: "iranyekan";
+}
